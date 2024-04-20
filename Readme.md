@@ -1,4 +1,3 @@
-```markdown
 # PDF to Questions and Answers Generator
 
 A Python project that generates relevant questions and answers from a provided PDF file based on a given topic or query.
